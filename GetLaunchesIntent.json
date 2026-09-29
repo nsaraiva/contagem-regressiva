@@ -1,0 +1,17 @@
+{
+  "name": "GetLaunchesIntent",
+  "slots": [
+    {
+      "name": "fecha",
+      "type": "AMAZON.DATE"
+    }
+  ],
+  "samples": [
+    "tem lançamento de foguete hoje",
+    "tem lançamento de foguete {fecha}",
+    "quais lançamentos têm {fecha}",
+    "vai ter lançamento {fecha}",
+    "me fala os lançamentos de {fecha}",
+    "quais são os próximos lançamentos"
+  ]
+}
